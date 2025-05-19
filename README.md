@@ -1,4 +1,9 @@
-# Hi, I'm Komá 👋
+
+Get ready to explore clean and creative code!
+
+---
+
+## Hi, I'm Komá 👋
 
 Welcome to my GitHub! I’m passionate about crafting clean and creative code.
 
@@ -34,6 +39,16 @@ Welcome to my GitHub! I’m passionate about crafting clean and creative code.
 
 Feel free to hit me up on Discord: **komadev**  
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/komadev)
+
+---
+
+## My Coding Arsenal
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komadk&layout=compact&theme=radical)
+
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+clean+and+creative;Let's+build+awesome+stuff!)
 
 ---
 
