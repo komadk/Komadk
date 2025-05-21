@@ -66,16 +66,8 @@
 </p>
 
 ---
-
-<h2 align="center">🐍</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Komadk/Komadk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation example" />
 </p>
 
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/src/assets/header/matrix.svg" />
-</p>
