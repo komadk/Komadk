@@ -7,6 +7,9 @@ Get ready to explore clean and creative code!
 
 Welcome to my GitHub! I’m passionate about crafting clean and creative code.
 
+## My Shop
+- https://discord.gg/QKymkRgb
+
 ---
 
 ## About Me
