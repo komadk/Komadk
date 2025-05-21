@@ -67,11 +67,12 @@
 
 ---
 
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+<h2 align="center">🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Komadk/Komadk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
