@@ -2,6 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/1374029346607726604/1374029425997385959/KD-Scripts.Logo.png?ex=682f331f&is=682de19f&hm=aabae66893d68b67b9eb5f5cb8b239377dcd2f59429388e5769242c2d68f7468&" width="100px" alt="KD Scripts Logo"/>
 </p>
 
+
+
 <h1 align="center">Hey, I'm Komá 👋</h1>
 
 <p align="center">
@@ -15,10 +17,24 @@
 <p align="center">
   💻 Full-stack developer focused on <strong>JavaScript</strong>, <strong>Lua</strong>, and sleek modern UIs<br/>
   🛠️ Creator of <a href="https://discord.gg/QKymkRgb"><strong>KD Scripts</strong></a> – top-tier FiveM scripts<br/>
-  🌍 Based in Denmark 🇩🇰, building for the world<br/>
+</p>
+
+<table align="center">
+  <tr>
+    <td style="white-space: nowrap; font-size: 16px;">
+      🌍 Based in Denmark 🇩🇰, building for the world
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80px" alt="Cartoon character coding" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   🌱 Constantly learning and refining my craft<br/>
   🎮 Love for immersive game scripts & clean architecture
 </p>
+
 
 ---
 
