@@ -60,6 +60,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komadk&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/komadk/kds_slashtire">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komadk&repo=kds_slashtire&theme=radical" />
+  </a>
+  <a href="https://github.com/komadk/kds_pickpocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komadk&repo=kds_pickpocket&theme=radical" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
